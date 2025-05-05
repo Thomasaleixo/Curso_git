@@ -1,0 +1,7 @@
+arquivos para testar o comando 
+git add .
+
+para enviar um arquivo sozinho é necessário enviar o nome do arquivo, caso ele esteja em um diretório
+separado, é preciso informar o diretório antes também,
+no exemplo do arquivo a.txt foi usado o comando:
+git commit 1_primeiro_repo/a.txt -m "testando formas de comitar somente um arquivo"

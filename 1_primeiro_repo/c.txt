@@ -1,0 +1,6 @@
+arquivos para testar o comando 
+git add .
+testando enviar todos os arquivos de uma vez para o git, para isso é necessário usar a flag -a de (all)
+nesse caso usando os comandos
+cd 1_primeiro_repo (pq tava com preguiça de ficar sempre sinalizando as pastas para os outros códigos)
+git commit -a -m "commando de commit para commitar todos os arquivos"
