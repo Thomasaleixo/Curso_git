@@ -1,0 +1,2 @@
+arquivos para testar o comando 
+git add .
